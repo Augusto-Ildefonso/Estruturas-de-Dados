@@ -4,7 +4,7 @@ Um repositório para armazenar algumas das principais estruturas de dados. Todas
 
 ## Estruturas já implementadas
 
-- [Item](https://github.com/Augusto-Ildefonso/Estruturas-de-Dados/edit/master/README.md/##Item)
+- Item
 - Pilha
 - Fila
 - Deque
